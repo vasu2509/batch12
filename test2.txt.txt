@@ -1,0 +1,3 @@
+What is GIT?
+Git is a free, open-source distributed version control system. This tool handles everything from small to very
+large projects with speed and efficiency.

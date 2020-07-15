@@ -1,0 +1,6 @@
+What is GIT?
+Git is a free, open-source distributed version control system. This tool handles everything from small to very
+large projects with speed and efficiency.
+Linus Torvalds created it in 2005 to develop the Linux Kernel.
+Git has the functionality, performance, security, and flexibility that most teams and individual developers need.
+Git has multiple application suitable for all environment and teams.
